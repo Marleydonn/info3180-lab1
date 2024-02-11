@@ -7,3 +7,5 @@
 5. Run `pip install flask` to install the Flask web application framework.
 6. Open `app.py` and add your first route.
 7. Start the flask develoment server with `flask --app app --debug run`
+
+THIS IS LAB 1 FOR JAHMARLEY ROBINSON(620150690)
