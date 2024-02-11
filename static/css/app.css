@@ -1,3 +1,20 @@
+*{
+  background-color: greenyellow;
+}
+
+h1{
+  font-size: 30pt;
+  margin-top: 0px;
+}
+p{
+  text-align: left;
+  width: 720px;
+}
+
+
+
+
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 14px;
@@ -7,4 +24,19 @@ body {
 .container {
   max-width: 960px;
   margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about_pic{
+  width: 210spx;
+  height: 185px;
+  border-radius: 55%;
+  background-color: cyan;
+  align-content: center;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  
 }
